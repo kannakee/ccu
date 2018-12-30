@@ -1,4 +1,4 @@
-
+#!/bin/bash
 import requests, logging, json, sys
 from http_calls import EdgeGridHttpCaller
 from random import randint
